@@ -11,3 +11,6 @@ https://www.huggingface.com
 
 Trouver une Licence, un Master ou un Msc en intelligence artificielle<br>
 https://www.etudes-intelligence-artificielle.com
+
+Initiation au Machine Learning<br>
+https://machinelearnia.com/

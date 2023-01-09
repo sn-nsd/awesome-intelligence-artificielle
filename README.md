@@ -8,3 +8,6 @@ https://fr.successfulai.com
 
 Hugging Face, éditeur de la librairie Transformers mettant à disposition un hub de + de 100 000 modèles d'intelligence artificielle<br>
 https://www.huggingface.com
+
+Trouver une Licence, un Master ou un Msc en intelligence artificielle<br>
+https://www.etudes-intelligence-artificielle.com
